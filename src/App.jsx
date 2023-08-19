@@ -3,6 +3,7 @@
 function App() {
   return (
     <>
+    
     {/* This snippet uses Font Awesome 5 Free as a dependency. You can download it at fontawesome.io! */}
     <section className="pricing py-5">
       <div className="container">
